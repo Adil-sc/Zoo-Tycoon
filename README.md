@@ -54,11 +54,11 @@ Nothing happens
 ## Installation and Usage
 Compile the program with this command:
 ```
-make FinalProject
+make Project2
 ```
 Run with the following command:
 ```unix
-./FinalProject
+./Project2
 ```
 
 ## Built With
