@@ -9,18 +9,22 @@ The Animal class has the following member variables:
 Age
   Adult if age >= 3 days
   Baby if age < 3 days
+  
 Cost
   Tiger cost $10,000
   Penguin cost $1,000
   Turtle cost $100
+  
 Number of Babies
   Tigers have 1 baby
   Penguins have 5 babies
   Turtles have 10 babies
+  
 Base Food Cost
   Tigers have a feeding cost of 5 times the base cost
   Penguins have a feeding cost that is the same as the base cost
   Turtles have a feeding cost that is 50% the base cost
+  
 Payoff
   A tiger’s payoff per day is 20% of their cost per animal. (not counting bonus)
   A penguin’s payoff per day is 10% of their cost per animal
