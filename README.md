@@ -36,12 +36,15 @@ Random Events:
 A sickness occurs to an animal in the zoo:
   Pick an animal at random that will die
   Remove one animal of that type from the exhibit. (dynamic array in the zoo)
+
 A boom in zoo attendance occurs:
   Generate a random bonus between 250 and 500 dollars for each tiger in the zoo for the day 
   Add the bonus payoff for each tiger to the total payoff of the day as a reward
+
 A baby animal is born:
   Pick an animal at random to have a baby
 Check if there is an animal old enough to be a parent (age >= 3), add babies to the zoo depending on the “number of babies” specific to the type of animal. If no animal is old enough of the randomly selected type, pick another type of animal. Baby animals start at age 0.  For simplicity, you don’t need to consider the gender of the adult animals in order to have babies. One adult animal is good enough to have babies.
+
   Nothing happens
 ```
 ## Installation and Usage
